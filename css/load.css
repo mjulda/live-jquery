@@ -1,0 +1,8 @@
+.load {
+    width: 25px;
+    position: absolute;
+    top: 124px;
+    z-index: -1;
+    margin-left: 20px;
+    display: none;
+}
